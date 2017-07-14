@@ -49,6 +49,4 @@ public class Main {
     }
     // Alternate random number generator derived using Math.random class.
     // randNum = (int)(Math.random()*dieSides) + 1;
-
-    //test commented added to test push from new pc
 }
